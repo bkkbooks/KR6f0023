@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0023/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無畏授所問大乘經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0331.xml
+    old_id: T12n0331
+hash: sha256:0b000bcd4cc1d172a878aa8bdb3a4a302b45acd9699067799e2f073f9fc0e753

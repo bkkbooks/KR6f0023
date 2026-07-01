@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6f0023/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0023/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無畏授所問大乘經
+  identifiers:
+    krp: KR6f0023
+    cbeta: T12n0331
+    cbeta_old_id: T12n0331
+    authorityid: CA0003443
+    json_key: T0331
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0331.xml
+    old_id: T12n0331
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0023_000-T.yaml, hash: 'sha256:0b000bcd4cc1d172a878aa8bdb3a4a302b45acd9699067799e2f073f9fc0e753'}
+  - {seq: 1, filename: KR6f0023_001-T.yaml, hash: 'sha256:2d67a7eb85665e8518e1dfa3de5180c847d0e2153a47656f45059f819df49354'}
+  - {seq: 2, filename: KR6f0023_002-T.yaml, hash: 'sha256:665d816d028ca0b9e1e5d4808408c44e168f04777444d1047bf0d14820ebe4af'}
+  - {seq: 3, filename: KR6f0023_003-T.yaml, hash: 'sha256:121b205a7eb810f69d7872d709488cf38d88f26c7922fc7e757b8323e6bdd2d7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0023_000-T.markers.yaml, hash: 'sha256:c08b9c52acc921cabdf0fb7bb6a730eced66cfa0a7f4cc81f43a56a3839f8181'}
+  - {seq: 1, role: markers, filename: assets/KR6f0023_001-T.markers.yaml, hash: 'sha256:3d92de667862c8f835cd200801c33c50065959f43048afb97c69e58019933aa4'}
+  - {seq: 2, role: markers, filename: assets/KR6f0023_002-T.markers.yaml, hash: 'sha256:025267c1c4119813a87ddb6646018612745a1d19e48ad3865aa5f2d26fbf38e1'}
+  - {seq: 3, role: markers, filename: assets/KR6f0023_003-T.markers.yaml, hash: 'sha256:76e60f62a0225e020d3419c82314bc2b6f854ab679c975dc9d95d213d3ae3171'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0023_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1846
+  label: 佛說無畏授所問大乘經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0023_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 1673
+  label: 佛說無畏授所問大乘經卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0023_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 1913
+  label: 佛說無畏授所問大乘經卷下
+  type: juan
+  level: 1
+hash: sha256:a295340c218c36175ca25b00fb7ba424ebca8a4343085a6498ed2927529da0b3
