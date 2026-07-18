@@ -35,7 +35,7 @@ assets:
   - {seq: 2, filename: KR6f0023_002.yaml, hash: 'sha256:3badc4bbe4b2ebc97b8f21d7838ea5e09c58e156d6f43ae7db4c5c6f5e10db59'}
   - {seq: 3, filename: KR6f0023_003.yaml, hash: 'sha256:af3be8b3acc915558e16f39cbf5597a573e16252193b2d574da6d73503473895'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0023_000.markers.yaml, hash: 'sha256:58f5f23f101ccc725232f8830a81a9449564ca9f848307b7939dea8f531135dd'}
+  - {seq: 0, role: markers, filename: assets/KR6f0023_000.markers.yaml, hash: 'sha256:8c6224170be8a71621d84e0f6b1505ac6a65c72455594b193550011834c63aaa'}
   - {seq: 1, role: markers, filename: assets/KR6f0023_001.markers.yaml, hash: 'sha256:c7554cf33c0d6acea04646a4269c50e09d2934e457ccaf610dbabd19059d25b2'}
   - {seq: 2, role: markers, filename: assets/KR6f0023_002.markers.yaml, hash: 'sha256:c574e24afde734e4f60ca0dd916fbb518440c09133919a1ff6abf8d541d0d496'}
   - {seq: 3, role: markers, filename: assets/KR6f0023_003.markers.yaml, hash: 'sha256:e2e4730029d9dd46ef9a0e1aaada7dc85ff13124076a4c2539ed4626789fcaa6'}
@@ -70,7 +70,7 @@ table_of_contents:
   label: 佛說無畏授所問大乘經卷下
   type: juan
   level: 1
-hash: sha256:e4f149db6a91b77360098a7ffdf2d2223e3017f960ff97f77e76aa33ccee378d
+hash: sha256:d2adfda43ed8e9d13ba5e9ebd6b86430a5908f423affff93238d04c18b0a4083
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -24,7 +24,7 @@ assets:
   - {seq: 2, filename: KR6f0023_002-T.yaml, hash: 'sha256:665d816d028ca0b9e1e5d4808408c44e168f04777444d1047bf0d14820ebe4af'}
   - {seq: 3, filename: KR6f0023_003-T.yaml, hash: 'sha256:121b205a7eb810f69d7872d709488cf38d88f26c7922fc7e757b8323e6bdd2d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0023_000-T.markers.yaml, hash: 'sha256:c08b9c52acc921cabdf0fb7bb6a730eced66cfa0a7f4cc81f43a56a3839f8181'}
+  - {seq: 0, role: markers, filename: assets/KR6f0023_000-T.markers.yaml, hash: 'sha256:d27e46279038aad56a49001c4888a22d9446a1d14ea3b1016faa39a6ff5af24d'}
   - {seq: 1, role: markers, filename: assets/KR6f0023_001-T.markers.yaml, hash: 'sha256:3d92de667862c8f835cd200801c33c50065959f43048afb97c69e58019933aa4'}
   - {seq: 2, role: markers, filename: assets/KR6f0023_002-T.markers.yaml, hash: 'sha256:025267c1c4119813a87ddb6646018612745a1d19e48ad3865aa5f2d26fbf38e1'}
   - {seq: 3, role: markers, filename: assets/KR6f0023_003-T.markers.yaml, hash: 'sha256:76e60f62a0225e020d3419c82314bc2b6f854ab679c975dc9d95d213d3ae3171'}
@@ -59,4 +59,4 @@ table_of_contents:
   label: 佛說無畏授所問大乘經卷下
   type: juan
   level: 1
-hash: sha256:a295340c218c36175ca25b00fb7ba424ebca8a4343085a6498ed2927529da0b3
+hash: sha256:d602796015a5b7a5d47e79475fcbbfb97c3112d9b500050cb4cc1df92ff0240b
